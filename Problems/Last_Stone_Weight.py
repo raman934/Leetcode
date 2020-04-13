@@ -1,5 +1,5 @@
-# Runtime: 28 ms
-# Memory Usage: 13.9 MB
+# Runtime : 28 ms
+# Memory Usage : 13.9 MB
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
         res = stones[0]
